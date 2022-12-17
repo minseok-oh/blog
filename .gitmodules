@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/minseok-oh/minseok-oh.github.io.git
+	branch = main
